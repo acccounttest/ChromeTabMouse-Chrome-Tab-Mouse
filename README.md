@@ -144,3 +144,7 @@ But this menu required to mouse to be originally to the source of the highlighte
 This will not manage the group names but give a way to remember the windows closed, and maintain a list in a file that keep really every name possible so keep it cleaned sometimes or deactivate it for certains records, manually from script or from incoming data or nothing(so currents names, there are no historic separated and linked in the memory only from the beginning of the execution.).
 
 - We want more functionality to reune the tabs from left to right with a delete key like `control` while being able to shrink or extend the current queue with the `mousewheel` ?
+
+
+Oh well, i almost forgot the essential, try this, keep right mouse button pressed down and scrolls until `RButton` is up again.
+And now we are not able to use the right function of the second script that we didn't used, it's in commentaries, maybe this last part can break all of this, it's located by the double parts concerning the wheel but in the main script.
