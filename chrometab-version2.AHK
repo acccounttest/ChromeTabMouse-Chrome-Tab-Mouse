@@ -14,5 +14,22 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
     ~RButton & ~LButton::Run , chrometab-version2-right.AHK
 
     ;if not a tild to the second lbutton then right menu appears systematically
-    
+    WheelUp::
+    aastate:=GetKeyState("RButton","P")
+    if (aastate = 1){
+        Send ^{tab}
+    }
+    else{
+        SendInput,{WheelUp}
+    }
+    return
+
+    WheelDown::
+    aastate:=GetKeyState("RButton","P")
+    if (aastate = 1){
+        Send ^+{tab}
+    }else{
+        SendInput,{WheelDown}
+    }
+    return
 }
