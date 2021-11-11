@@ -12,7 +12,12 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
     
     ~LButton & RButton::Run , chrometab-version2-left.AHK
     ~RButton & ~LButton::Run , chrometab-version2-right.AHK
-
+    ~RButton::
+    If ((A_TimeSincePriorHotkey < 500) and (A_TimeSincePriorHotkey > 80)){
+        Reload
+    }
+    return
+    
     ;if not a tild to the second lbutton then right menu appears systematically
     WheelUp::
     aastate:=GetKeyState("RButton","P")
