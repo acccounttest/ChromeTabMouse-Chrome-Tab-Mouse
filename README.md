@@ -1,25 +1,15 @@
-##Intro
+#Intro
 ___
-
-##Install
+#Install
 ___
-
-##Shortcuts and Extensions
+#Shortcuts and Extensions
+#Execution
+#Reliability
 ___
-
-##Execution
+#Another unwanted functionality
+#enchancements
+#Help and updates
 ___
-
-##Reliability
-___
-
-##Another unwanted functionality
-___
-
-##enchancements
-___
-
-
 
 #Intro
 ---
@@ -146,5 +136,17 @@ This will not manage the group names but give a way to remember the windows clos
 - We want more functionality to reune the tabs from left to right with a delete key like `control` while being able to shrink or extend the current queue with the `mousewheel` ?
 
 
+#Help and updates
+---
 Oh well, i almost forgot the essential, try this, keep right mouse button pressed down and scrolls until `RButton` is up again.
 And now we are not able to use the right function of the second script that we didn't used, it's in commentaries, maybe this last part can break all of this, it's located by the double parts concerning the wheel but in the main script.
+
+And this too, script seems a bit KO sometimes, i means only for the wheels trigger only, why only ? i don't know, script must be reloaded to be effective with all the triggers, despit they are all in the same continuity of lines.
+`Short Double RButton`
+```
+~RButton::
+    If ((A_TimeSincePriorHotkey < 500) and (A_TimeSincePriorHotkey > 80)){
+        Reload
+    }
+    return
+```
