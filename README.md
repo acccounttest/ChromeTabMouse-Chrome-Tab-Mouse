@@ -9,6 +9,7 @@ ___
 - #Reliability
 - #Another unwanted functionality
 - #Enhancements
+___
 - #Chrome Hotkeys Exceptions and updates(short codes not added)
 - #Help and updates
 ___
