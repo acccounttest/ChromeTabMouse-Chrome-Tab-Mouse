@@ -5,11 +5,11 @@ ___
 #Shortcuts and Extensions
 #Execution
 #Reliability
-___
-#Another unwanted functionality
-#Enhancements
-#Chrome Hotkeys Exceptions and updates(short codes not added)
-#Help and updates
+___:
+- #Another unwanted functionality
+- #Enhancements
+- #Chrome Hotkeys Exceptions and updates(short codes not added)
+- #Help and updates
 ___
 
 
