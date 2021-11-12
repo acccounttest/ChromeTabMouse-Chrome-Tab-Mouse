@@ -1,6 +1,7 @@
-#Intro
+___:
+- #Intro
 ___
-#Install
+- #Install
 ___:
 - #Shortcuts and Extensions
 ___
