@@ -2,13 +2,11 @@
 - #Intro
 ___
 - #Install
-___:
 - #Shortcuts and Extensions
 ___
 - #Execution
 ___
 - #Reliability
-___:
 - #Another unwanted functionality
 - #Enhancements
 - #Chrome Hotkeys Exceptions and updates(short codes not added)
