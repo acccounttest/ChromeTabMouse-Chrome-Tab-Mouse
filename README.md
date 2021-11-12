@@ -1,4 +1,4 @@
-___:
+:
 - #Intro
 ___
 - #Install
