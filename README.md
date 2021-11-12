@@ -1,10 +1,12 @@
 #Intro
 ___
 #Install
+___:
+- #Shortcuts and Extensions
 ___
-- #Shortcuts and Extensions___
-- #Execution___
-- #Reliability___
+- #Execution
+___
+- #Reliability
 ___:
 - #Another unwanted functionality
 - #Enhancements
