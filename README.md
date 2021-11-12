@@ -2,9 +2,9 @@
 ___
 #Install
 ___
-#Shortcuts and Extensions
-#Execution
-#Reliability
+- #Shortcuts and Extensions___
+- #Execution___
+- #Reliability___
 ___:
 - #Another unwanted functionality
 - #Enhancements
