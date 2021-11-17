@@ -191,8 +191,8 @@ And this too, script seems a bit KO sometimes, i means only for the wheels trigg
 
 -Main script triggers are deactivated early, more often and consecutively, even without loss of one of the window focus.
 
--Wheel is more or less comprehensive on certain domains, example is unhibernation.
+-`Wheel` is more or less comprehensive on certain domains, example is unhibernation.
 
--Double right click does not refresh the script(as Reload should occur) on a hibernated tab(With marvellous suspender, the best contender since the extension got stopped and BTW splitted).
+-`Double right click` does not refresh the script(as Reload should occur) on a hibernated tab(With marvellous suspender, the best contender since the extension got stopped and BTW splitted).
 
 
