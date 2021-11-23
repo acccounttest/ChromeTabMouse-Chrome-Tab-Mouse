@@ -200,11 +200,19 @@ And this too, script seems a bit KO sometimes, i means only for the wheels trigg
 V3
 This version changed something on Windows 8 and Windows 10 versions.
 The functionality(despite it comes from the 'main' script, need the script to be reloaded),
+
  of the `double right clic`, has been fixed, it was as well necessary on windows 10 to reload
+ 
  the script after a moment of inactivity with the concerned windows list, here chrome.exe.
+ 
 The `right click` was stuck by the `right click` menus, this was not impossible in older versions 
+
 and tests, but now add the `wheels` on the main script make it to stop trigger
- them so it's safer to say reload is not stopped by sending yourself the `keys` to the OS, it maybe less compatible, convertible and reusable, though OS versions and others devices, 
+
+ them so it's safer to say reload is not stopped by sending yourself the `keys` to the OS, it maybe less compatible, convertible and reusable, 
+
+though OS versions and others devices, 
+
 This is the only functionality that has been enhanced in this way.
 
 
