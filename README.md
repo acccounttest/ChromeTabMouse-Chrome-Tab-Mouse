@@ -195,4 +195,21 @@ And this too, script seems a bit KO sometimes, i means only for the wheels trigg
 
 -`Double right click` does not refresh the script(as Reload should occur) on a hibernated tab(With marvellous suspender, the best contender since the extension got stopped and BTW splitted).
 
+#W8 and W10 fixed
+---
+V3
+This version changed something on Windows 8 and Windows 10 versions.
+The functionality(despite it comes from the 'main' script, need the script to be reloaded),
+ of the `double right clic`, has been fixed, it was as well necessary on windows 10 to reload
+ the script after a moment of inactivity with the concerned windows list, here chrome.exe.
+The `right click` was stuck by the `right click` menus, this was not impossible in older versions 
+and tests, but now add the `wheels` on the main script make it to stop trigger
+ them so it's safer to say reload is not stopped by sending yourself the `keys` to the OS, it maybe less compatible, convertible and reusable, though OS versions and others devices, 
+This is the only functionality that has been enhanced in this way.
+
+
+The main difference is in Windows 10, the `right click` menus were blocking either the mouse moved or not before or after any other event of `keys`.
+Note the chosen values of 500 and 80 were chosen randomly and could not be compatible, in this application, with other code, extensions, or future functionalities, a typical example is the usage of the `wheel` in other UI components.
+
+
 
