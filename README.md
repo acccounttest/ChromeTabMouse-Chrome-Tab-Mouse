@@ -60,6 +60,7 @@ Functionalities working with only mouse wheel without keyboard.
  - Permit do the same in a set of tabs in a row(it's an expression, it means all consecutively without breaking the scroll of the page, but menus should be forget, they are completely possible but usually tend to quit while the tab lose the focus.)
  - Capacity to supress top right buttons of each windows
  - Goto page bottom very fast
+ - Help to show more colors and visual content during the longer left click, example on the chrome store, the square tend to be more highlighted after the click than with the middle one, same apply for right click and is more website default color dependant, ex: selected areas colors.
  - Goto horizontally always better(in web and generally) with shift+scroll, but anyway move vertically to avoid or force the goto was not necessary and not being before.
  - The backward and forward middle click on the GUI can lose your tabs and not load the appropriate historic of the tabs, much status key in this case, all shortcuts could not be available in all keyboard or even accessible on a full keyboard(Numpad or directional keys or other type(s) of keys). Not all shortcuts could or are available in the same time.
  - Sometimes change chapter or timeline change a volume,(not when it was partially or completely the shortcut for it), add or remove a key in the combo.
