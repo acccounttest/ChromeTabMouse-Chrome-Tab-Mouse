@@ -33,7 +33,7 @@ Functionalities working with only mouse wheel without keyboard.
 
  - Change current tab
  - Move a tab
- - Close a tab
+ - Close a tab, even with multiples windows, to be sure its the very last effective window.
  - New tab
  - Keep always left mouse like a mouse wheel you can graduate, it's a switch but with less or more arrows(like in full screen)
  - Goto up of the page smoothly or greatly a right clic then move up the mouse, or use ^home for instant actions without text that remains eventually selected before or after.
