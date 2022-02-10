@@ -31,6 +31,7 @@ It can be necessary to reload the script if certain functionalities shortcuts st
 Functionalities working with only mouse wheel without keyboard.
 ---
 
+ - Send tab to a list of window or a new
  - Change current tab
  - Move a tab
  - Close a tab, even with multiples windows, to be sure its the very last effective window.
@@ -83,6 +84,15 @@ The unique functionalities with keyboard combined with the mouse or only keyboar
  - Add a way to move faster the CSS resize anchor icon as double diagonal in the corner, sometimes to the left to disappear sometimes to the right and/or bottom to growth it.
  - Middle mouse button is not replaced and works as normally.
 
+Functionnalitites with extensions and made only by the keyboard:
+---
+ - Move tab to window(s) with <kb>ctrl + q</kb>(ext name: "Move tab to the next window only"), this extension support the tab group functionnality and regroup automatically by <kb>drag and drop</kb> the tab outside the window.
+ - Move to the last or the next used tabs (works in "Quickkeys" but half of shortcut or one on two need to be know, i use <kb>alt + a</kb> and <kb>alt + z</kb> and i never had a problem, except the shortcut start by <kb>alt</kb> and is not combined, it should works as the most possible in 2022).
+ - Move to the left or right tab(shortcut does not works in "Quickkeys")
+ - Search for filter then access tabs in may differents ways(by default/preferences/orders)
+ - Move to the two last previous tab of the current window(not between windows) with "Quickkeys".
+ - Quick keys, note switch to the most most recent tabs is not <kb>alt + z</kb> but <kb>alt + q</kb> if you did it for open, the "Quickkeys" menu but instead , press <kb>q</kb> 2 times without release the key <kb>alt</kb>, keep keys longer to choose directly another tab uppon on the new tab and bring to front the same menu.
+ - Arrange tab vertically and allow <kb>drag and drop</kb> and tab hibernated status to not change(no <kb>shift</kb>), include an option for filter in all windows or current and do not require tab to be pinned.(ext: "Tabmenu").
 
 
 
