@@ -74,6 +74,8 @@ Add a configuration entirely remade for any shortcuts with a detailed list of wh
 
  - A way to force the opening to be from google url into directly a new window as it is not possible to avoid the white page loading even if blacktheme is in usage in old systems under w10, even anti flash are not enough to prevent against this, the url could be any others URL later, so when hovering a link, we can send just before do it, only in google pages, or any other domains if added, to use instead the right click to open directly , add the shift key effect that will use another window, but the grayed background could even fail, very rarely but occasionnaly and recently.
 
+ - Select all the links on the page or all elements visually highlighted page per page and copy it or decide the other actions by the context menu usually used by extensions, in a single key, and unlock some others.
+
 
 The unique functionalities with keyboard combined with the mouse or only keyboard:
 ---
