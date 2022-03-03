@@ -56,7 +56,7 @@ Functionalities working with only mouse wheel without keyboard.
  - Get the secondary menu for videos or chrome browser or extensions more often in cycles with empty cycle step, or modifiers.
  - Multiply the number of scroll at same time
  - Add an enhanced scroll instead the scroll in google page, scroll google(sincerely why but sometimes due to something more or more it could as normally disappear or never appears, differently i have two ext that produce it sometimes more than expected)
- - Deactivate temporally all shortcuts by a unique shortcut, shift+MMB.
+ - Deactivate temporally all shortcuts by a unique shortcut, left and right keys while together but left first, no more rules.
  - Differentiate more all default shortcuts that were not working or you never used or you would change because the default are not the only possible or depending the platform(or more or less new keys).
  - Permit do the same in a set of tabs in a row(it's an expression, it means all consecutively without breaking the scroll of the page, but menus should be forget, they are completely possible but usually tend to quit while the tab lose the focus.)
  - Capacity to supress top right buttons of each windows
