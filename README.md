@@ -3,6 +3,10 @@ Chrometab is now to sell, in the version 4, send your address to paypal.me.
 --------
 ________
 
+> _**This demo version** is like 50 lines but the final release is around 3k of lines and 
+> could necessite again 3k more for the configuration choices._
+
+------
 
 
 Why, How, When
