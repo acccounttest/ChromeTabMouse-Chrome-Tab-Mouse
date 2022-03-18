@@ -5,7 +5,7 @@ ________
 
 > * _**This demo version** is like 50 lines but the final release is around 3k of lines and_
   -  > _could necessite again 3k more for the configuration choices._
-    +  > PS:_Chrome tab mouse didn't require the script **GoogleSearchColumns** especially, for those that tried the 5e version, try other timings by     an another version that permit you less press the right click for reload the script too early_
+    +  >PS:_Chrome tab mouse didn't require the script **GoogleSearchColumns** especially, for those that tried the 5e version, try other timings by     an another version that permit you less press the right click for reload the script too early_
 
 ------
 
