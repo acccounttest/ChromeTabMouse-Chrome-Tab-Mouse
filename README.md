@@ -4,6 +4,7 @@ Chrometab is now to sell, in the version 4, send your address to paypal.me.
 ________
 
 > * _**This demo version** is like 50 lines but the final release is around 3k of lines_
+> * _**Another version** for the cheaper price is not a final release too, but it has more updates and not mandatory_
   -  > _It could necessite again 3k more for the configuration choices._
   +  > PS:_Chrome tab mouse didn't require the script **GoogleSearchColumns** especially, for those that tried the 5e version, try other timings by     an another version that permit you less press the right click for reload the script too early_
 
