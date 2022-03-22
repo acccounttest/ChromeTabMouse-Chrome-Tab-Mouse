@@ -34,13 +34,11 @@ For enter to this mode simply press a long left followed by another shorter, a p
 - Scroll down in text= copy the text
 - Scroll up in a URL= add in stack to unload them all with control shift u (note jsut control u could works but could call instead open the source view in a new tab)
 - Scroll down in a URL= open it immediately with all previous select texts
+- Left click select all text and try to get more highlights than expected or wanted, it will positionate the cursor hover the URL link, now process as usually.
+- Simply press the up key for add in the stack and down for execute immedialty.
+- Press control shift u for execute the stack and empty it.
 
-But this is unachieved works, there can be bugs so i added to the locker of the trigger keys, i added a timer of one second to avoid any consecutive scrolls keys to be triggered in the mode highlight link clicks.
-- If you have never selected anything or are really reinit by a left and/or right-clicks the queue of the stack or the principle to begin another first selection and not continue it.
-- If you select down and up(or the invert) on text below a Google link, it could select the whole paragraph in a row, this is not achieved and you should consider this method retarded by the fact, it will copy previous selected text to create a new selection from where we changed the cursor position, example to a new URL, this is not intended, normally a single left click should select the whole text and the process of strings verification could need one more step, delete same more other character middle of the text or at very end differently than usually.
-- If you do that and are certain it will not bug, it culd bug even more, it will simply copy a single word instead a entire paragraph.
-
-Note open a new link, but for highlight text, is not in a new tab but in a new window, this is due the new tab could be white or blank, i suggest you an extension for open a new tab, you can open it in a new window with the shift key too.
+Note open a new link, but for highlight text, is not in a new tab but in a new window, this is due the new tab could be white or blank depending your system preferences, i suggest you an extension for open a new tab, you can open it in a new window with the shift key too.
 
 The highlight of fragment still relatively in working state and cannot be serious for usage of multiple and/or prefix and suffix, that are only important for the start text tag not the end tag.
 
