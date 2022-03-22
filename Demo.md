@@ -48,7 +48,15 @@ https://www.reddit.com/r/reddithelp/comments/tce74r/scrolltotext_fragments_not_c
 Tips: Don't try to quit and enter in the chrome instantly researching another key or action, it could fail or act differently than expected on your system...
 Tips2:On Google URLS and strange domain names with many words and/or very short text parts, it could redirect and there are many chances that break the functionality or the tab loading can stay in paused state.
 
-Note:
+  > **Only the keys in the demo document are available for functionnalitites, the keys of the main readme project are not well explained, certain are old or inverted, just the actions are fine per devices or approximately, more with only a mouse are working.**
+
+  > It will be possible to use another functionnality not explained in the readme, at tab state or betwen them(any or from a list), i have much extension that could require a user operation or a shortcut or start a script, this is not intended to list and automate all shortcuts for all domains, just click and modify extension of chrome though domains in less a second or something else, like reorder a process of execution of extensions at a moment, example with higlights that could rewrite themselves too often or not enough, example with extensions stylish and headings map, i will shown examples and other extensions.
+
+  > Installation and configuration will be later added here.
+
+  > Latest functionnalitites come from inintentionnal and coincidential stuff, access the chrome URL scheme area and paste the clipboard content is an example.
+
+  > Note:
 This document cover only the first section of the shortcut devices types combined or not, but the code compiled included all headers and all keys, just the highlight search still in development.
 https://github.com/acccounttest/ChromeTabMouse
 
