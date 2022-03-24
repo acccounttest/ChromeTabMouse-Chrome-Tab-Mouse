@@ -20,7 +20,7 @@ Consider this without configuration accessible, it is partially working and not 
 - Always scroll= <kbd>long right click</kbd> a second OR short right click followed by scrolls almost immediately(reload the script and always scroll canceled by a normal right click or a reload and no scroll after)
 - After a middle click for move a tab, <kbd>left</kbd> click will return to the last selected tab while the <kbd>right</kbd> will not do that.
 - Disable the script temporally by <kbd>left while right</kbd> in this order only, keep in mind the right need to be not the shorter possible or this will not switch any shortcuts accessibility inverted.
-- Select text only by <kbd>two right clicks<kbd>, continue or reinit selection start with a <kbd>single left</kbd> if it blocks.
+- Select text only by <kbd>two right clicks</kbd>, continue or reinit selection start with a <kbd>single left</kbd> if it blocks.
 -
 
 All shortcuts are available only in chrome.exe, only 2 are accessible outside the Chrome windows, <kbd>right while left</kbd>(in this order) for send <kbd>ctrl+w</kbd> is doable everywhere else, and <kbd>left while right</kbd> to activate shortcuts(shortcut only not script but it could but unnecessary) or the invert, deactivate them all except the two concerned.
