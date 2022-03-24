@@ -8,37 +8,37 @@ Demo of the compiled version of the program to control and distinguish without a
 Consider this without configuration accessible, it is partially working and not completely done, in a future, every instruction will be modifiable though a configuration UI of each parts of any section of the whole script, like if you want to make it compatible for any another browser by the keys, timing, config and instructions types, it will be very easily doable to remade or switch and replace any section of instructions, note this is really not to suggest, as you will be not allowed to modify the entrance of the section itself, not especially its main condition, but more it's place related to others sections indirectly and certainly more than 2.
 
 - Send tab to window=left while scroll down but keep last key down for better results, if you move it could be added to a new group and choose the color
-- Change tab=right while scrolls or only scrolls after (eventually a left before FTM), a long right press like 1 second, the longest click ever.
-- Move tab=Middle click and immediately scroll even before animation occurs, they will be taken in account later
-- Close a tab=close is right while left in that order only
-- New tab=New is left while scroll up
-- Scroll immediately = average left press
-- Open a link in current tab= normal short left click
-- Open in new background= middle click or average left click, keep it pressed longer than usually no need 1 second
-- Open directly= right click(short or long same)
-- Dl a link(works or not)control shift short left click
-- Always scroll= long right-click a second OR short right click followed by scrolls almost immediately(reload the script and always scroll canceled by a normal right click or a reload and no scroll after)
-- After a middle click for move a tab, left click will return to the last selected tab while the right will not do that.
-- Disable the script temporally by left while right in this order only, keep in mind the right need to be not the shorter possible or this will not switch any shortcuts accessibility inverted.
-- Select text only by two right clicks, continue or reinit selection start with a single left if it blocks.
+- Change tab=<kbd>right</kbd> while <kbd>scrolls</kbd> or only <kbd>scroll(s)</kbd> after a <kbd>short right click</kbd>(reload).
+- Move tab=<kbd>Middle click</kbd> and immediately scroll even before animation occurs, they will be taken in account later
+- Close a tab=close is <kbd>right while left</kbd> in that order only
+- New tab=New is <kbd>left while scroll up</kbd>
+- Scroll immediately = <kbd>average left</kbd> press not in URL
+- Open a link in current tab= normal <kbd>short left</kbd> click
+- Open in new background= <kbd>middle click</kbd> or <kbd>average left</kbd> click, keep it pressed longer than usually no need 1 second.
+- Open directly= <kbd>right click</kbd>(short or long same)
+- Dl a link(works or not)<kbd>control shift</kbd> <kbd>short left click</kbd>
+- Always scroll= <kbd>long right click</kbd> a second OR short right click followed by scrolls almost immediately(reload the script and always scroll canceled by a normal right click or a reload and no scroll after)
+- After a middle click for move a tab, <kbd>left</kbd> click will return to the last selected tab while the <kbd>right</kbd> will not do that.
+- Disable the script temporally by <kbd>left while right</kbd> in this order only, keep in mind the right need to be not the shorter possible or this will not switch any shortcuts accessibility inverted.
+- Select text only by <kbd>two right clicks<kbd>, continue or reinit selection start with a <kbd>single left</kbd> if it blocks.
 -
 
-All shortcuts are available only in chrome.exe, only 2 are accessible outside the Chrome windows, right while left(in this order) for send ctrl+w is doable everywhere else, and left while right to activate shortcuts(shortcut only not script but it could but unnecessary) or the invert, deactivate them all except the two concerned.
+All shortcuts are available only in chrome.exe, only 2 are accessible outside the Chrome windows, <kbd>right while left</kbd>(in this order) for send <kbd>ctrl+w</kbd> is doable everywhere else, and <kbd>left while right</kbd> to activate shortcuts(shortcut only not script but it could but unnecessary) or the invert, deactivate them all except the two concerned.
 
-Remember a short right click can reload potentially the script and loose partially information of current statuses or other data until the script remains unfinished or in a demo version like here.
+Remember a <kbd>short right click</kbd> can reload potentially the script and loose partially information of current status or other data until the script remains unfinished or in a demo version like here.
 Don't forget enter a mode can stay blocked in it and could require to use same or others shortcut to exit.
 
 For search on Google or any sites and highlight previous selected words or sentences(auto on Google by ... and longer char - for delete dates), unfinished:
-For enter to this mode simply press a long left followed by another shorter, a popup should briefly appear, and only in these timing of these keys, except if cumulated click time increment to a total of minimum 2 clicks in the same time, thinking it was only them at this time, but this never happened; and two clicks could only deactivate this mode if you were in previously.
-- Scroll up in text= select a word or continue to select only by the right to the current selected line.
-- Scroll down in text= copy the text
-- Scroll up in a URL= add in stack to unload them all with control shift u (note jsut control u could works but could call instead open the source view in a new tab)
-- Scroll down in a URL= open it immediately with all previous select texts
-- Left click select all text and try to get more highlights than expected or wanted, it will positionate the cursor hover the URL link, now process as usually.
-- Simply press the up key for add in the stack and down for execute immedialty.
-- Press control shift u for execute the stack and empty it.
+For enter to this mode simply press a <kbd>long left</kbd> followed by another shorter, a popup should briefly appear, and only in these timing of these keys.
+- <kbd>Scroll up</kbd> in text= select a word or continue to select only by the right to the current selected line.
+- <kbd>Scroll down</kbd> in text= copy the text
+- <kbd>Scroll up</kbd> in a URL= add in stack to unload them all with control shift u (note jsut control u could works but could call instead open the source view in a new tab)
+- <kbd>Scroll down</kbd> in a URL= open it immediately with all previous select texts
+- <kbd>Left click</kbd> select all text and try to get more highlights than expected or wanted, it will positionate the cursor hover the URL link, now process as usually.
+- Simply press the <kbd>scroll up</kbd>key for add in the stack and down for execute immedialty.
+- Press <kbd>control shift u</kbd> for execute the stack and empty it.
 
-Note open a new link, but for highlight text, is not in a new tab but in a new window, this is due the new tab could be white or blank depending your system preferences, i suggest you an extension for open a new tab, you can open it in a new window with the shift key too.
+Note open a new link, but for highlight text, is not in a new tab but in a new window, this is due the new tab could be white or blank depending your system preferences, i suggest you an extension for open a new tab, you can open it in a new window with the <kbd>shift key</kbd> too.
 
 The highlight of fragment still relatively in working state and cannot be serious for usage of multiple and/or prefix and suffix, that are only important for the start text tag not the end tag.
 
