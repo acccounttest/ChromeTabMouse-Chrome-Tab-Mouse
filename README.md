@@ -10,6 +10,11 @@ ________
         > [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ot1985)
 ------
 
+Demo
+---
+
+Page link is to this page bottom but demo is not yet accessible, just all is working for the light versions, any full funcionnalities are exposed.
+
 
 Why, How, When
 ---
@@ -101,7 +106,8 @@ Functionnalitites with extensions and made only by the keyboard:
  - Quick keys, note switch to the most most recent tabs is not <kbd>alt + z</kbd> but <kbd>alt + q</kbd> if you did it for open, the "Quickkeys" menu but instead , press <kbd>q</kbd> 2 times without release the key <kbd>alt</kbd>, keep keys longer to choose directly another tab uppon on the new tab and bring to front the same menu.
  - Arrange tab vertically and allow <kbd>drag and drop</kbd> and tab hibernated status to not change(no <kbd>shift</kbd>), include an option for filter in all windows or current and do not require tab to be pinned.(ext: "Tabmenu").
 
-
+> 
+# [Demo.](https://github.com/acccounttest/ChromeTabMouse-Chrome-Tab-Mouse/blob/main/Demo.md)
 
 Next menus
 ---
