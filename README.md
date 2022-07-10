@@ -109,6 +109,9 @@ Functionnalitites with extensions and made only by the keyboard:
 > 
 # [Demo.](https://github.com/acccounttest/ChromeTabMouse-Chrome-Tab-Mouse/blob/main/Demo.md)
 
+> 
+# [Cheatsheets.](https://github.com/acccounttest/ChromeTabMouse-Chrome-Tab-Mouse/blob/main/Cheatsheets.md)
+
 Next menus
 ---
 
