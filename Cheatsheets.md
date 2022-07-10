@@ -83,9 +83,9 @@ Much more documentation and menus will be available, actions between *tabs* are 
 
 > 
 > Right of the page :
-    ___:
-     + Project Darktheme : The visibility contrast difference should be at the maximal, in fact it is the same of the left imaginary column, just sometimes the left column get less dark background changes variation at the same time from the same mouse localization.
-     + Project CTM : The real problem is a big part of the websites in the INTERNET disable this area where the <kbd>buttons</kbd> are activated to <kbd>auto-scroll</kbd> later, you can't make anything against it, the mouse will return inevitably to the unused button state and the icon will be disabled too, in normal situation without this script the <kbd>middle mouse button</kbd> icon should not closed or reestablish(ed) by only the <kbd>wheel</kbd>(s).
+    ___
+ + Project Darktheme : The visibility contrast difference should be at the maximal, in fact it is the same of the left imaginary column, just sometimes the left column get less dark background changes variation at the same time from the same mouse localization.
+ + Project CTM : The real problem is a big part of the websites in the INTERNET disable this area where the <kbd>buttons</kbd> are activated to <kbd>auto-scroll</kbd> later, you can't make anything against it, the mouse will return inevitably to the unused button state and the icon will be disabled too, in normal situation without this script the <kbd>middle mouse button</kbd> icon should not closed or reestablish(ed) by only the <kbd>wheel</kbd>(s).
 
 
 > 
