@@ -64,28 +64,32 @@ Much more documentation and menus will be available, actions between *tabs* are 
 
 > It 's about another full, free and dynamic project to get full dynamic dark theme on the web 99.5% compatible and avoid cookies, pop-up, full page height, only colorize only the same, per domains and shortcut of shortcuts for test what script association you should choose, and then proceed to go to each script domain filtering configuration later, see latest update further in the concerned menus, this is about system shortcut and a browser extension that can load or unload CSS scripts per domain (with exceptions inside script only for frame types found, theses should always be surrounded by a blue border to identify them more easily.
 
->THe dark theme and usage of this script works in a synergy, the free dark web theme in the same repositories account on Github, this is the same functionality to preserve the <kbd>scrolling</kbd> state of the <kbd>wheel</kbd> without have to keep pressed the key(s), any, this can happens too at two other moments, when you close a *tab* or you switched a *tab* in any mode *tab* switching mode you would prefer to use with.
+> The dark theme and usage of this script works in a synergy, the free dark web theme in the same repositories account on Github, this is the same functionality to preserve the <kbd>scrolling</kbd> state of the <kbd>wheel</kbd> without have to keep pressed the key(s), any, this can happens too at two other moments, when you close a *tab* or you switched a *tab* in any mode *tab* switching mode you would prefer to use with.
     In fact the real activation of the<kbd>middle button</kbd> (w/o have to press the <kbd>middle mouse button</kbd>) of the mouse in a locked state is not available anywhere on the same areas on every websites of the world, let's divide any page into three proportional column areas in a page, the visual and interaction act differently :
 
 
+ > 
  > Left of the page :
     ___:
     + Project Darktheme: The darktheme can be compromised, more often there are less dark areas propagated(by default propagation of styles aim    almost always left to right and top to bottom)
     + Project CTM : The mouse activation with released keys is simply working the most of the time. 
 
 
+ > 
  > Middle of the page :
     ___:
      + Project Darktheme : The reading visibility is not much affected, multiple background and foreground contrast difference choices.
      + Project CTM : It result a bad area to try to send a <kbd>middle click</kbd> of the mouse, plus the <kbd>long left click</kbd> to open links in background that activate the auto <kbd>scrolling</kbd> is and can do both at the same time, at the origin it is made to open links by 2, it maybe differ by opening only one on videos websites, the search of a place to position the mouse in this state search several times an incremented coordinates in his combined axes to avoid the links to be <kbd>clicked</kbd>.
 
 
+> 
 > Right of the page :
     ___:
      + Project Darktheme : The visibility contrast difference should be at the maximal, in fact it is the same of the left imaginary column, just sometimes the left column get less dark background changes variation at the same time from the same mouse localization.
      + Project CTM : The real problem is a big part of the websites in the INTERNET disable this area where the <kbd>buttons</kbd> are activated to <kbd>auto-scroll</kbd> later, you can't make anything against it, the mouse will return inevitably to the unused button state and the icon will be disabled too, in normal situation without this script the <kbd>middle mouse button</kbd> icon should not closed or reestablish(ed) by only the <kbd>wheel</kbd>(s).
 
 
+> 
 > You can easily conclude the ideal position often are in the same direction but not same sens, so record only an universal final position to activate the auto page scrolling is not satisfying, ideally the right side of the browser page should be not receptive and refuse to activate the <kbd>middle mouse button</kbd> into a half state, it is not impossible to get it working in a locked state, you must try a little more left and sometimes enter into the defined space as middle of the place or at least the next adjacent side of the main areas in an anodic website.
 
 
