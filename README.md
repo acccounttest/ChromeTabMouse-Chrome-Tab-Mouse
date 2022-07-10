@@ -1,5 +1,5 @@
 
-Chrometab is now to sell, in the version 4, send your address to paypal.me.
+Chrometab is now to sell, in the version 4, send your address to ppal.me.
 --------
 ________
 
@@ -9,6 +9,16 @@ ________
   +  > PS:_Chrome tab mouse didn't require the script **GoogleSearchColumns** especially, for those that tried the 5e version, try other timings by     an another version that permit you less press the right click for reload the script too early_
         > [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ot1985)
 ------
+
+In addition to the fact that this project determine a better adaptation to the black theme rather than proposing something compulsory in the theme, it proposes to review any same recognizable, in addition to finding tons of *Easter Eggs*, it is possible to recognize the provenance and destination of the links as well as their way of opening with or without additional key(s), exception for the Google domain and also video areas, fortunately with *ChromeTabMouse*, all openings can be differentiated or united (or differentiated from the origin,see <kbd>ctrl + a</kbd> or extensions menus), it also makes it possible to distinguish the URLs visited from others, this functionality being native in the web and navigators, it is only temporary and leaked, it is sometimes or always a very long or short times; it is therefore with the current project it is possible definitively, to dismiss(or not) certain URLs openings (such as the site itself or by a new blacklisting matching test) and to extract others in different files or openings.
+This is already the case with the functionality of the link(s) to text fragment(s) in Google and the results, certain parts may concern certain characters of more rare separators, less URLs or the text scrolling itself or not, generally more results in the descriptions are hidden.
+
+
+> 
+  > # [Demo.](https://github.com/acccounttest/ChromeTabMouse-Chrome-Tab-Mouse/blob/main/Demo.md)
+> 
+  > # [Cheatsheets.](https://github.com/acccounttest/ChromeTabMouse-Chrome-Tab-Mouse/blob/main/Cheatsheets.md)
+
 
 Demo
 ---
