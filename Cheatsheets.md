@@ -70,16 +70,15 @@ Much more documentation and menus will be available, actions between *tabs* are 
 
  > 
  > Left of the page :
-    ___:
-    + Project Darktheme: The darktheme can be compromised, more often there are less dark areas propagated(by default propagation of styles aim    almost always left to right and top to bottom)
-    + Project CTM : The mouse activation with released keys is simply working the most of the time. 
+ + Project Darktheme: The darktheme can be compromised, more often there are less dark areas propagated(by default propagation of styles aim    almost always left to right and top to bottom)
+ + Project CTM : The mouse activation with released keys is simply working the most of the time. 
 
 
  > 
  > Middle of the page :
     ___:
-     + Project Darktheme : The reading visibility is not much affected, multiple background and foreground contrast difference choices.
-     + Project CTM : It result a bad area to try to send a <kbd>middle click</kbd> of the mouse, plus the <kbd>long left click</kbd> to open links in background that activate the auto <kbd>scrolling</kbd> is and can do both at the same time, at the origin it is made to open links by 2, it maybe differ by opening only one on videos websites, the search of a place to position the mouse in this state search several times an incremented coordinates in his combined axes to avoid the links to be <kbd>clicked</kbd>.
+ + Project Darktheme : The reading visibility is not much affected, multiple background and foreground contrast difference choices.
+ + Project CTM : It result a bad area to try to send a <kbd>middle click</kbd> of the mouse, plus the <kbd>long left click</kbd> to open links in background that activate the auto <kbd>scrolling</kbd> is and can do both at the same time, at the origin it is made to open links by 2, it maybe differ by opening only one on videos websites, the search of a place to position the mouse in this state search several times an incremented coordinates in his combined axes to avoid the links to be <kbd>clicked</kbd>.
 
 
 > 
