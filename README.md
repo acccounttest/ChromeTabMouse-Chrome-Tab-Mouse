@@ -1,5 +1,5 @@
 
-Chrometab is now to sell, in the version 4, send your address to ppal.me.
+ChromeTabMouse can bind any app with the mouse, more the browsers only in light version, switch, use any device and remember tabs, keywords and mouse positions in the net, but essentially can use them in a row, tabs openings are always opened the same in any native browser with or w/o extensions, you can surf in your bed or reuse keyboard as the only shortcut you would for each keys like inside a tab(and auto/manual/trigger) or an app(modifiers and scroll), the scrolling w/o any button(or after the left click is up)...
 --------
 ________
 
