@@ -2,9 +2,7 @@
 # ChromeTabMouse
 ---
 
-This application can bind any app with the mouse buttons(combos, back/forward need the equivalent in the keyboard w/o have to use it), more the browsers only in light version, switch, use any device and remember tabs, keywords and mouse positions in the net, but essentially can use them in a row, tabs openings are always opened the same in any native browser with or w/o extensions, you can surf in your bed or reuse keyboard as the only shortcut you would for each keys like inside a tab(and auto/manual/trigger) or an app(modifiers and scroll), the scrolling w/o any button(or after the left click is up) or multiply the scrolls are all part of the basic functionnalities.
---------
-________
+`This application can bind any app with the mouse buttons(combos, back/forward need the equivalent in the keyboard w/o have to use it), more the browsers only in light version, switch, use any device and remember tabs, keywords and mouse positions in the net, but essentially can use them in a row, tabs openings are always opened the same in any native browser with or w/o extensions, you can surf in your bed or reuse keyboard as the only shortcut you would for each keys like inside a tab(and auto/manual/trigger) or an app(modifiers and scroll), the scrolling w/o any button(or after the left click is up) or multiply the scrolls are all part of the basic functionnalities.`
 
 > * _**This fake demo version** is like 50 lines but the final light release is ~6k of lines, around double or triple to accomplish the full domain filtering ideas_
 > * _**Another version** for the cheaper price is not a final release too, any data is not consistent and only to considerate temporary and definitively._
