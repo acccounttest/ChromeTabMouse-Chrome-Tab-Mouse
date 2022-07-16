@@ -84,7 +84,7 @@ Functionalities working with only mouse wheel without keyboard(see demo readme f
  - <kbd>Right click</kbd> a line can copy it, or a word more often if you are hovering letters directly, select very fast word, sentence ,paragraph and bloc, scroll in the code is allowed.
  - Permit to continuously to <kbd>scroll down</kbd> even if a menu is present under the mouse position(or not if you come to the tab or moved not directly the mouse, example: use chrome GUI.
  - Change video chapter and timeline(sometimes only in fullscreen, or volume too but it's managed later by regex on the domain URL).
- - Invert the contrast of the selected text(can be a complement to partially DarkChromePastel as last resort), white on blue or dark on gray background, the context menu tend to lose the focus any selected parts differently, can depend extensions.
+ - Invert the contrast of the selected text(can be a complement to partially DarkChromePastel as last resort), white on blue or dark on gray background, even orange can be something new as well in Chrome or Git search input, the context menu tend to lose the focus of any selected parts differently, can depend some extensions and websites.
  - Get less and less the same chrome right menu, that can be cause of annoying white frame over dark theme on older platforms.
  - Get the secondary menu for videos or chrome browser or extensions more often in cycles with empty cycle step, or modifiers.
  - Multiply the number of <kbd>scroll</kbd> at same time, default is 4.
