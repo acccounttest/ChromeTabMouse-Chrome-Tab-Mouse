@@ -39,7 +39,7 @@ On links only, note a single left any time in Google will open a new in the fore
 Left normal = open link in current page
 Left a little longer = open the link in another page in the background and try open if a link is below since the release of the left, if already not or move the mouse until a release, for visited links, see the dark theme project and chapter in this Git account.
 Right normal = open directly the link hover the page in a new focused page loaded in a *tab*.
-
+<kbd>Drag</kbd> away a link and <kbd>drop</kbd> the mouse <kbd>left click release status</kbd> hover it to open the URL in a new window, cause the <kbd>long left click</kbd> let the <kbd>shift key down</kbd> until any other <kbd>key</kbd> occurs, just like to activate one of the select text mode.
 
 
 Rights click is special, here are all its triggers.
@@ -101,9 +101,9 @@ The left key permit to do this :
  - Make the page <kbd>auto-scroll</kbd> active, no need <kbd>clicks</kbd> it happens when a *tab* was closed or switched, both are options.
  - Use an <kbd>auto-scroll</kbd> identical but without move the mouse and before 150 ms are elapsed.
  - By default the selection hover certain different adjacent element does not bring back the selection in the clipboard and/or in the selection view that highlights the parts, certain can miss if the selection is not reverted or if the mouse encounter link and images or if the operation is simply impossible, with this you can do it in any order, firstly it can be broken exactly in the same viewable ways, so to enhance the idea, i added a shortcut in the light version of this program, it can help you to copy all you need, do not loose a part or copy redundant data, get all the text from certain text or code boxes, not only what is viewable directly selected but the rest is not selected, do not cancel the operation while and where the mouse move, reuse directly that data into the <kbd>right click</kbd> menu.
- - A long left of 2 seconds call a sort of circle with only the rays and between them the triangles full of choices that you can set to be the default action and/or call another wheel of triangles, a configuration mode to set up them all in one drawing on the screen, include text, icons and status in the corners of the triangles.
+ - Right and middle, the only shortcut exception to use two mouse button at the same time with difficulty, call a sort of circle with only the rays and between them the triangles full of choices that you can set to be the default action and/or call another wheel of triangles, a configuration mode to set up them all in one drawing on the screen, include text, icons and status in the corners of the triangles.
  - (triple <kbd>click</kbd> or longer)Call the same default mouse position but only in the full version, this record is not accessible in a wheel of choices, theses execute only in the light version any script you would and its parameters to demonstrate it will be included later in the full version, it can really be directly the triple key or the previous first line pop-up where the mouse it set over the goto button, or you can use the only another button reset the position to the next <kbd>click</kbd>, or <kbd>escape</kbd> pop-up with the <kbd>wheel up</kbd> or <kbd>wheel down</kbd> keys.
- - Others operations with modifiers on other elements, per example links can download the web page at this location, depend the browser and if you want, normally theses key combos are never made by default or by extensions, so it's safe to let it configured on activated at start.
+ - Others operations with modifiers on other elements, per example links can download the web page at this location, it depend the browser and if you desire, normally theses key combos are never made by default or by extensions, so it's safe to let it configured on activated at start, the full list of functionnalities can be found on other pages of this Github project.
 
 
 
@@ -139,9 +139,12 @@ Middle button
 Circle of choices
 ---
 
- - Double <kbd>left click</kbd> with validation when override by 2 choices you can ignore default is no, override to a new default domain website mouse position you would prefer it should be positioned, or at least to be when you come back to the tab and change mouse position to any final point, when you want switch the *tab* or close a *tab* or manually on demand.
+ - Override a new default domain website mouse position you would prefer it should be, or at least to be when you come back to the tab and change mouse position to any final point, when you want switch the *tab* or close a *tab* or manually on demand.
  - Execute new AHK scripts on the fly.
-
+ - Ask an amount of tabs to use a shortcut or a script, normally a script it self could be enough to ask like one of these answer:
+  + Hibernate/Unhibernate/only hibernate unhibernated/only unhibernate hibernated "x" *tab(s)*
+  + Check the pixel color of an extension on any page, i have a good extension and it does not show it by default in new tabs, this could consider a personnal list of domain and matching type to be a conditionnal prerequesite.
+  + Other extensions...
 
 
 The wheel and last advices
@@ -172,7 +175,7 @@ The wheel and last advices
 
  - Send *tabs* to windows and come back can be done with the <kbd>wheels</kbd> too, up for come back not <kbd>wheel down</kbd>, just like left is normal but short right will not un-hibernate a hibernated *tab*, in chrome only, this is due to the fact it simulate something like <kbd>shift</kbd> and <kbd>click</kbd>.
 
- - Press and hold the left <kbd>button</kbd> hover *tabs* if they are in the application title-bar, this should move them even if grouped.
+ - Press and hold the left <kbd>button</kbd> hover *tabs* if they are in the application title-bar, this should eject them outside the window into another, even if the *tabs* are grouped, this works in chrome based browser, to not have to use the send *tab* to another window list in the menus into one new window entry..
 
  - Remember there are other combo with <kbd>left or right</kbd> and other mouse keys but not <kbd>backward</kbd> and <kbd>forward</kbd>, they will be inexact and inaccurate not only due to the <kbd>numpad</kbd> status key(s).
 
