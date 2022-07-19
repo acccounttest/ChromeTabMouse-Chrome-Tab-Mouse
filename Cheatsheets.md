@@ -175,7 +175,7 @@ The wheel and last advices
 
  - Send *tabs* to windows and come back can be done with the <kbd>wheels</kbd> too, up for come back not <kbd>wheel down</kbd>, just like left is normal but short right will not un-hibernate a hibernated *tab*, in chrome only, this is due to the fact it simulate something like <kbd>shift</kbd> and <kbd>click</kbd>.
 
- - Press and hold the left <kbd>button</kbd> hover *tabs* if they are in the application title-bar, this should eject them outside the window into another, even if the *tabs* are grouped, this works in chrome based browser, to not have to use the send *tab* to another window list in the menus into one new window entry..
+ - Press and hold the left <kbd>button</kbd> hover *tabs* if they are in the application title-bar, this should eject them outside the window into another, even if the *tabs* are grouped, this works in chrome based browser, to not have to use the send *tab* to another window list in the menus into one new window entry, simply keep the <kbd>left click</kbd> pressed longer to return back to the previous used window.
 
  - Remember there are other combo with <kbd>left or right</kbd> and other mouse keys but not <kbd>backward</kbd> and <kbd>forward</kbd>, they will be inexact and inaccurate not only due to the <kbd>numpad</kbd> status key(s).
 
