@@ -9,7 +9,7 @@ ___
 > 
   > # [Cheatsheets.](https://github.com/acccounttest/ChromeTabMouse-Chrome-Tab-Mouse/blob/main/Cheatsheets.md)
 
-> * _**This fake demo version** is like 50 lines but the final light release is ~6k of lines, around double or triple to accomplish the full domain filtering ideas_
+> * _**This fake demo version** is like 50 lines but the final light release is dozens k of lines, around double or triple to accomplish the full domain filtering ideas_
 > * _**Another version** for the cheaper price is not a final release too, any data is not consistent and only to considerate temporary and definitively._
   -  > _The script can bind any mouse button combinations to achieve a aim, like start a script as continuity._
   +  > PS:_Chrome tab mouse didn't require the script **GoogleSearchColumns** especially, or any other extensions but it will be possible to chain them._
