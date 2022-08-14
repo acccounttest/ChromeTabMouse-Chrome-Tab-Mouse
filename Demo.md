@@ -8,27 +8,27 @@ Demo of the compiled version of the program to control and distinguish without a
 Consider this without configuration accessible, it is partially working and not completely done, in a future, every instruction will be modifiable though a configuration UI of each parts of any section of the whole script, like if you want to make it compatible for any another browser by the keys, timing, config and instructions types, it will be very easily doable to remade or switch and replace any section of instructions, note this is really not to suggest, as you will be not allowed to modify the entrance of the section itself, not especially its main condition, but more it's place related to others sections indirectly and certainly more than 2.
 
 - Send tab to window=left while scroll down but keep last key down for better results, if you move it could be added to a new group and choose the color
-- Change tab=<kbd>right</kbd> while <kbd>scrolls</kbd> or only <kbd>scroll(s)</kbd> after a <kbd>short right click</kbd>(reload).
+- Change tab=<kbd>right</kbd> while <kbd>scrolls</kbd> or only <kbd>scroll(s)</kbd> after a <kbd>short right click</kbd>(reload), or the <kbd>wheel</kbd> without <kbd>scroll(s)</kbd> for 1 second, the <kbd>right click</kbd> is sensible for copypaste, see the cheatsheets page.
 - Move tab=<kbd>Middle click</kbd> and immediately scroll even before animation occurs, they will be taken in account later
-- Close a tab=close is <kbd>right while left</kbd> in that order only
-- New tab=New is <kbd>left while scroll up</kbd>
-- Scroll immediately = <kbd>average left</kbd> press not in URL
-- Open a link in current tab= normal <kbd>short left</kbd> click
+- Close a tab=close is <kbd>right while left</kbd> in that order only.
+- New tab=New is in the magicwheel <strike>is <kbd>left while scroll up</kbd></strike>.
+- Scroll immediately = <kbd>average left</kbd>, can be pressed over a URL or under after maybe another link.
+- Open a link in current tab= normal <kbd>short left</kbd> click.
 - Open in new background= <kbd>middle click</kbd> or <kbd>average left</kbd> click, keep it pressed longer than usually no need 1 second.
-- Open directly= <kbd>right click</kbd>(short or long same)
-- Dl a link(works or not)<kbd>control shift</kbd> <kbd>short left click</kbd>
-- Always scroll= <kbd>long right click</kbd> a second OR short right click followed by scrolls almost immediately(reload the script and always scroll canceled by a normal right click or a reload and no scroll after)
+- Open directly= <kbd>right click</kbd>(short or long same).
+- Dl a link(works or not)<kbd>control shift</kbd> <kbd>short left click</kbd>.
+- Always scroll= <kbd>long right click</kbd> a second OR short right click followed by scrolls almost immediately(reload the script and always scroll canceled by a normal right click or a reload and no scroll after).
 - After a middle click for move a tab, <kbd>left</kbd> click will return to the last selected tab while the <kbd>right</kbd> will not do that.
-- Disable the script temporally by <kbd>left while right</kbd> in this order only, keep in mind the right need to be not the shorter possible or this will not switch any shortcuts accessibility inverted.
+- Disable the script temporally by <kbd>right</kbd> while <kbd> middle click</kbd> in this order only and simply, the only combo of the middle mouse and its buttons.
 - Select text only by <kbd>two right clicks</kbd>, continue or reinit selection start with a <kbd>single left</kbd> if it blocks.
 -
 
-All shortcuts are available only in chrome.exe, only 2 are accessible outside the Chrome windows, <kbd>right while left</kbd>(in this order) for send <kbd>ctrl+w</kbd> is doable everywhere else, and <kbd>left while right</kbd> to activate shortcuts(shortcut only not script but it could but unnecessary) or the invert, deactivate them all except the two concerned.
+All shortcuts are available only in chrome.exe, only 2 are accessible outside the Chrome windows, <kbd>right while left</kbd>(in this order) for send <kbd>ctrl+w</kbd> is doable everywhere else, and <kbd>left while right</kbd> to activate shortcuts(shortcut only not script but it could but unnecessary) or the invert, deactivate them all except the two concerned, by using <kbd> right </kbd> + <kbd> middle click </kbd>, this is only used for disabled them, or use the magicwheel you start by the previous shortcut that restablish the shortcuts pause.
 
 Remember a <kbd>short right click</kbd> can reload potentially the script and loose partially information of current status or other data until the script remains unfinished or in a demo version like here.
 Don't forget enter a mode can stay blocked in it and could require to use same or others shortcut to exit.
 
-For search on Google or any sites and highlight previous selected words or sentences(auto on Google by ... and longer char - for delete dates), unfinished:
+For search on Google or any sites and highlight previous selected words or sentences(auto on Google by ... and longer char - for delete dates), unfinished, there are multiple Google search modes constantly evolving:
 For enter to this mode simply press a <kbd>long left</kbd> followed by another shorter, a popup should briefly appear, and only in these timing of these keys.
 - <kbd>Scroll up</kbd> in text= select a word or continue to select only by the right to the current selected line.
 - <kbd>Scroll down</kbd> in text= copy the text
@@ -60,4 +60,4 @@ Tips2:On Google URLS and strange domain names with many words and/or very short 
 This document cover only the first section of the shortcut devices types combined or not, but the code compiled included all headers and all keys, just the highlight search still in development.
 https://github.com/acccounttest/ChromeTabMouse
 
-Demo is accessible for 5e , cost is 15e and updates and later only certains blacklists/whitelists, send 0.1e to my Paypal with your address to contact you.
+Demo is accessible for 0, price is 100, send 0.1e to my Paypal with your address to contact you.
