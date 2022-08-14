@@ -128,6 +128,19 @@ Left + right
 
 
 
+ # <kbd>Double left</kbd>
+---
+There are 2 double left:
+ - Retrieve the ideal position and status of the mouse for in general or the current website or by a user script conditions.
+ - slowly and longer = one of the simplest gsearch mode, for that see all the way to google overidden usages.
+With a wrong timing, it can produce a <kbd> double </kbd> , and activate the highlight mode ON.
+
+ # <kbd>Triple left</kbd>, all consecutive only and under a little time between them :
+---
+ - Fast for open urls found in the clipboad(multiples formats and editions are possible)
+
+
+
 Middle button
 ---
 
@@ -138,7 +151,7 @@ Middle button
 
 
 
-Circle of choices
+Circle of choices(left + right)
 ---
 
  - Override a new default domain website mouse position you would prefer it should be, or at least to be when you come back to the tab and change mouse position to any final point, when you want switch the *tab* or close a *tab* or manually on demand.
