@@ -210,7 +210,7 @@ Principals extensions :
 ___
 
  - https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg
- - Hover and copy for handle <kbd>ctrl-c</kbd> in chrome
+ - Hover and copy for handle <kbd>ctrl-c</kbd> in chrome (not "hover copy" extension name)
  - Set tab width to reduce all tab width to almost an icon and/or(same config=not same size) until few letters :)
  - The marvellous suspender to get chrome nice hibernated tabs even after updates.
 
