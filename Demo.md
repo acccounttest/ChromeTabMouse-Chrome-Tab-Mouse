@@ -60,4 +60,7 @@ Tips2:On Google URLS and strange domain names with many words and/or very short 
 This document cover only the first section of the shortcut devices types combined or not, but the code compiled included all headers and all keys, just the highlight search still in development.
 https://github.com/acccounttest/ChromeTabMouse
 
-Demo is accessible for 0, price is 100, send 0.1e to my Paypal with your address to contact you.
+Demo is accessible for 0(but limited and countdowns will apply to projects
+, price is 100, try Paypal with not credentials, try the community link to
+contact you or use the notification area.
+**Demo is going soon to be released*...***
