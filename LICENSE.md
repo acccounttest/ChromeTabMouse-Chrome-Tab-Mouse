@@ -1,5 +1,4 @@
 This license applies only to the code outside the main executable.
-
 The images, files and folders, and other assets are explicitly excluded.
 
 The file "ChromeTabMouse.exe" cannot be modified but can be distributed.
