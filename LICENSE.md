@@ -1,3 +1,10 @@
+This license applies only to the code outside the main executable.
+The images, files and folders, and other assets are explicitly excluded.
+The file "ChromeTabMouse.exe" cannot be modified but can be distributed.
+The file "ChromeTabMouse.ahk" can be edited but not distributed without 
+the creator contentment even if the name is mentioned.
+All the other projects are excluded and are related to their own license.
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
