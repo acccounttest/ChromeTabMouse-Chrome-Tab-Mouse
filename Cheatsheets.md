@@ -173,12 +173,14 @@ The wheel and last advices
  - If the script block the clipboard of the system, i suggest you to access the notification area icon and make a <kbd>right click</kbd> on the program icon, note anything else without firstly lose focus of the browser window will fail, only the <kbd>right click</kbd> key down for 4 seconds can reload it(4 for clipboard and 5 for the program), eventually you can close and restart it.
 
  - <kbd>^!+</kbd> + <kbd>wheel up</kbd> or <kbd>wheel down</kbd> can goto next or all previous browser no grouped windows even if no used(made auto by <kbd>scroll up or down</kbd> except when you send a *tab* to another window by the <kbd>right click</kbd> until <kbd>wheel</kbd> or <kbd>clicks</kbd> happens, there is no time left to reset the status of this mode).
- - By default change the current browser other windows can be made with <kbd>left + wheel up or down</kbd>, or call the list of named windows with <kbd>control + space</kbd>, then type letters and finish with <kbd>enter</kbd>, the last entry will be selected first !, otherwise simply press <kbd>*tab*</kbd> to choose manually a selected entry with <kbd>up or down</kbd> keys.
- - <kbd>Control + shift wheel up</kbd>= switch into all others different browser types.
- - <kbd>Control + shift wheel down</kbd>(inside or outside)= will always goto to the last used window but from the system historic of last used application, it could be another browser or the same, not absolutely another windows, in the way this application cannot know what is your session or every other last used application.
+  - By default change the current browser other windows can be made with <kbd>left + wheel up or down</kbd>, or call the list of named windows with <kbd>control + space</kbd>, then type letters and finish with <kbd>enter</kbd>, the last entry will be selected first !, otherwise simply press <kbd>*tab*</kbd> to choose manually a selected entry with <kbd>up or down</kbd> keys.
+  - <kbd>Left click + wheel up</kbd>= Switch to the very last browser application window(or switch into all others different browser types and windows after the last scrolled, but only scrolled windows).
+  - <kbd>Left click + wheel down</kbd>(inside or outside)= will always goto to the one more used window but from the system historic of last used application, it could be another browser or the same, this will switch the before last window or one more last window earlier.
+ <kbd>Control + shift wheel up</kbd> Return firstly to the very last application window in the grouped browser windows,
+ and the next windows will come from the last used in the ungrouped windows, so the window that are deleted from the grouped group or that has not been scrolled even if used or switched.
+  - <kbd>Alt + shift + wheel up</kbd> is delete the windows of the default and only main group.
+  - <kbd>Alt + shift + wheel down</kbd> add all others ungrouped windows into the main, in the end and return to the first used of them.
 
- - <kbd>Alt + shift + wheel up</kbd> is delete the windows of the default and only main group.
- - <kbd>Alt + shift + wheel down</kbd> add all others ungrouped windows into the main, in the end and return to the first used of them.
 
 But there are exceptions :
  - Take the example you have under the focus a browser window, grouped or ungrouped, if you use <kbd>alt + shift + wheel up</kbd> and then <kbd>alt + shift + wheel down</kbd>(preferably by releasing the modifier keys and press them again between the wheel sens), this window will be ungrouped but the exception is when <kbd>scrolled</kbd> the window will not be added into the grouped windows.(only 1 window, the next other window(s) will act as usually).
