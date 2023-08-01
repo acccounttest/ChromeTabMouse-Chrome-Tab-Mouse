@@ -5,6 +5,8 @@ ___
 <kbd>Left</kbd> and <kbd>right click</kbd> only on links (It absolutely require any extension that can copy the link(s) in the clipboard with <kbd>Control + c</kbd> preferably as default, even wrongly, redundant or deformed and altered values like hidden, missing, or not existent).
 If other prerequisite are really posing a problem like extensions, you can considerate this script can do all it alone.
 
+**PLEASE CONSIDER THERE IS NO UPDATES FOR THE TITLES BASED ON HOTKEYS DIRECTLY, THERE IS A DOCUMENTATION SPECIFIC FOR THE KEY SETS NOW, JUST REMEMBER IT IS LIKE MANY MORE USAGES CAN BE ASSIGNED TO THE ALL THE SAME AND EVEN MORE**
+
 On links only, note a single left any time in Google will open a new in the foreground.
 ---
 Rights click is special, here are all its triggers.
